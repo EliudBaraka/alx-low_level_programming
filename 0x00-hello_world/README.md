@@ -6,4 +6,6 @@ gcc -S $CFILE - a script that generates the assembly code of a C code and save i
 
 gcc $CFILE -o cisfuni - a script that compiles a C file and creates an executable named cisfun.
 
+gcc -S -masm=intel $CFILE - a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+
 
