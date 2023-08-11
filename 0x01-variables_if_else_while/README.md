@@ -18,4 +18,6 @@ a program that prints the lowercase alphabet in reverse, followed by a new line.
 
 a program that prints all possible combinations of single-digit numbers.
 
+a program that prints all possible different combinations of two digits.
+
 
